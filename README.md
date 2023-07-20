@@ -1,2 +1,2 @@
 # hello-world
-# Meu primeiro repositório criado para como forma de exercício na aula de Setup da Cubos Academy.
+# Exercício de Casa :house: da aula de Setup da Cubos Academy.
